@@ -45,22 +45,28 @@ p.desc {
 */
 
 body {
-
+    /*padding: 2em;*/
 }
 .content {
     text-align: center;
     padding: 2em;
+    /*padding: 1em;
+    */
 }
 
 p.date {
     margin-bottom: 2em;
+    /*text-align: left;
+      margin: 0;*/
 }
 
 h3 {
     margin: 0em;
     padding: 0em;
+    /* */
 }
 
 p.desc {
     text-align: center;
+    /*margin-bottom: 0;*/
 }
